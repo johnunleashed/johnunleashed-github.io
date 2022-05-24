@@ -1,0 +1,31 @@
+.navbar{
+    text-align: center;
+
+    background-color: lightsalmon; 
+    
+    }
+
+section{
+text-align: center;
+
+background-color: lightseagreen;
+
+}
+
+div{
+    text-align: end;
+    background-color: brown;
+
+}
+
+.navbar p{
+
+    padding:auto; 
+
+}
+
+.navbar ul{
+    
+    display:flex;
+    margin-left: 20px;
+}
